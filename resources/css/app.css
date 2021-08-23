@@ -1,0 +1,139 @@
+:root{
+    --bg-dark: #2b6777;
+    --bg-dark-tp: #2b677756;
+    --bg-light: #c8d8e4;
+    --nav-light: white;
+    --nav-dark: black;
+    --button-gray: #f2f2f2;
+    --button-green: #52ab98;
+    --gray:#FAFAFA;
+    --border:219, 219, 219;
+}
+
+.body{
+    background-color: var(--gray);
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+/* ===================================== */
+        /* Register Form Start */
+/* ===================================== */
+
+
+
+.register-form .ivu-input{
+    padding: 1.2em 1em;
+    font-size: 1.2em;
+    
+}
+
+.register-form .ivu-input-group-prepend{
+    background-color: var(--button-green);
+    color: var(--nav-light);
+    font-size: 2em;
+    border: none;
+}
+
+
+/* ===================================== */
+        /* Register Form End */
+/* ===================================== */
+
+
+
+
+
+
+/* ===================================== */
+        /* Nav Start */
+/* ===================================== */
+
+
+.nav-icon{
+    font-size: 30px;
+    padding-top: 0.3em;
+    color: var(--nav-dark);
+    font-weight: bold;
+    color: rgba(128, 128, 128, 0.692);
+}
+
+.nav-icon:hover{
+    cursor: pointer;
+}
+
+/* ===================================== */
+        /* Nav End */
+/* ===================================== */
+
+
+
+
+
+
+/* ===================================== */
+        /* Post Start */
+/* ===================================== */
+
+.avatar-img img{
+    width: 100%;
+    border-radius: 50%;
+    padding: 2px;
+    border: 3px solid #DF65A5;
+    vertical-align: top;
+}
+
+
+
+/* ===================================== */
+        /* Post End */
+/* ===================================== */
+
+
+
+/* ===================================== */
+        /* File Upload Start */
+/* ===================================== */
+
+
+.demo-upload-list{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    overflow: hidden;
+    background: #fff;
+    position: relative;
+    box-shadow: 0 1px 1px rgba(0,0,0,.2);
+    margin-right: 4px;
+}
+.demo-upload-list img{
+    width: 100%;
+    height: 100%;
+}
+.demo-upload-list-cover{
+    display: none;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,.6);
+}
+.demo-upload-list:hover .demo-upload-list-cover{
+    display: block;
+}
+.demo-upload-list-cover i{
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 0 2px;
+}
+
+
+
+/* ===================================== */
+        /* File Upload End */
+/* ===================================== */
