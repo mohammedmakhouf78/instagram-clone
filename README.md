@@ -9,12 +9,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1885XF8jTOZp6NYbl-D8zUpc2fHOfGEur/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/14mwjCIadWsnq8uKMMy4ivF2wQfM5zxKq/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/1Ix_kGzHZ-Li_gAceOLBeOCETNysULY0Y/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/16QP_3Rq3YV9CU6-nh4uHJgmXANSWTmhM/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/1TXFZMDWgNAdGGwhaXtnGkgA_st6GwabV/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/1wEOSTOFCG-1CZFIRbpcOUcPQoAUsHoin/view?usp=drive_link)
+
 ## Run Locally
 
 Clone the project
